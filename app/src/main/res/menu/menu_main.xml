@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.simon.brisol.Main">
+    <item
+        android:id="@+id/action_register"
+        android:orderInCategory="100"
+        android:title="Register User"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_stations"
+        android:orderInCategory="100"
+        android:title="Stations"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="@string/logout"
+        app:showAsAction="never" />
+</menu>

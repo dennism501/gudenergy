@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#55468C</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="purpleStart">#8C4674</color>
+    <color name="purpleMiddle">#8A468C</color>
+    <color name="purpleEnd">#55468C</color>
+    <color name="white">#fff</color>
+    <color name="black">#111</color>
+</resources>
